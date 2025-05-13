@@ -5,7 +5,7 @@ class HomeScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Recipe Generator'),
+        title: Text('ChefAi'),
       ),
       body: Center(
         child: Text('Enter ingredients and select dietary preferences!'),

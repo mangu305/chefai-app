@@ -9,7 +9,7 @@ class RecipeGeneratorApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Recipe Generator',
+      title: 'ChefAi',
       theme: ThemeData(
         primarySwatch: Colors.green,
       ),
